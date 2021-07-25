@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-ii2z@i=d&-%&slsrq())2z!$71t8zfyz_w#d(v@y)4-e%*&un)'
+SECRET_KEY = '....'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -72,7 +72,7 @@ WSGI_APPLICATION = 'second.wsgi.application'
 
 
 # Database
-# https://docs.djangoproject.com/en/3.2/ref/settings/#databases
+# .....
 
 DATABASES = {
     'default': {
@@ -83,7 +83,7 @@ DATABASES = {
 
 
 # Password validation
-# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
+#........
 
 AUTH_PASSWORD_VALIDATORS = [
     {
